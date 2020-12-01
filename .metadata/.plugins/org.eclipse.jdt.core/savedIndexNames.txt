@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Users\tstud\Desktop\CIS 285\Lab10\.metadata\.plugins\org.eclipse.jdt.core
+312718085.index
+3588816338.index
+4190564210.index
+3460880079.index
+2742057327.index
+2143315025.index
+4183935884.index
+3365877644.index
+2522446629.index
+3722950571.index
+1393328844.index
+40247823.index
+3748782301.index
+1213830060.index
+1961522405.index
+1640566838.index

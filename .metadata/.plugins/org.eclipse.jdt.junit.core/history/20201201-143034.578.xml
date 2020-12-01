@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testSelectionSort" project="Lab10" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="basicSelectionSort.testSelectionSort" time="0.003" displayname="testSelectionSort" uniqueid="[engine:junit-vintage]/[runner:basicSelectionSort.testSelectionSort]">
+    <testcase name="testDuplicates" classname="basicSelectionSort.testSelectionSort" time="0.0" displayname="testDuplicates" uniqueid="[engine:junit-vintage]/[runner:basicSelectionSort.testSelectionSort]/[test:testDuplicates(basicSelectionSort.testSelectionSort)]"/>
+    <testcase name="testMixed" classname="basicSelectionSort.testSelectionSort" time="0.001" displayname="testMixed" uniqueid="[engine:junit-vintage]/[runner:basicSelectionSort.testSelectionSort]/[test:testMixed(basicSelectionSort.testSelectionSort)]"/>
+    <testcase name="testNegatives" classname="basicSelectionSort.testSelectionSort" time="0.0" displayname="testNegatives" uniqueid="[engine:junit-vintage]/[runner:basicSelectionSort.testSelectionSort]/[test:testNegatives(basicSelectionSort.testSelectionSort)]"/>
+    <testcase name="testPositive" classname="basicSelectionSort.testSelectionSort" time="0.002" displayname="testPositive" uniqueid="[engine:junit-vintage]/[runner:basicSelectionSort.testSelectionSort]/[test:testPositive(basicSelectionSort.testSelectionSort)]"/>
+  </testsuite>
+</testrun>
